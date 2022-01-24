@@ -1,0 +1,7 @@
+export {default as Login} from './Auth/Login' 
+export {default as ListPatient} from './Admin/ListPatient'
+export {default as UserDetails} from './Admin/UserDetails'
+export {default as ListDoctors} from './Admin/ListDoctors'
+export {default as DoctorDetails} from './Admin/DoctorDetails'
+export {default as Dashboard} from './Admin/Dashboard'
+export {default as Home} from './Home'
